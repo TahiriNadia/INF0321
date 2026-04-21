@@ -1,37 +1,37 @@
-```markdown id="k8f3md"
 # 📘 INF0321
 
-## 1. Présentation
+## 🧭 Overview
 
-Le module INFO321 a pour objectif de fournir une formation complémentaire en exploitation et modélisation de données dans le cadre du PDII-2023, suite à une initiation à la programmation 💻, aux structures de données 📊, à l’algorithmique 🧠, au génie logiciel 🛠️, à la théorie relationnelle et aux bases de données 🗄️.
+The INF0321 module provides complementary training in data exploitation and modeling within the PDII-2023 program. It builds on prior knowledge in programming, data structures, algorithms, software engineering, relational theory, and databases.
 
-Il vise à permettre d’évaluer et de prendre en compte l’impact des choix technologiques gouvernant la mise en œuvre des SGBD. Il vise également à acquérir les compétences requises pour la réalisation, l’optimisation et l’évolution de bases de données à l’aide d’outils contemporains dans un environnement nécessitant le contrôle d’accès 🔐 et la sécurisation des données 🛡️.
-
----
-
-## 2. 🎯 Objectifs spécifiques
-
-À la fin de l’activité, la personne étudiante doit être capable de :
-
-### 2.1 🗂️ Gestion des artefacts
-Mettre en place un système de gestion des artefacts (sources, versions, configurations, documentations, etc.) produits au cours du développement et de l’évolution de systèmes logiciels comportant des bases de données.
-
-### 2.2 🔌 API et cybersécurité
-Développer une interface machine-machine (IMM ou API) intégrant un contrôle d’accès respectant une politique de cybersécurité.
-
-### 2.3 ⚙️ Optimisation des modèles de données
-Optimiser la représentation des modèles logiques et physiques des bases de données.
-
-### 2.4 🚀 Optimisation des requêtes
-Optimiser l’exécution de requêtes sur la base des plans d’exécution et du contexte d’utilisation.
-
-### 2.5 🌐 Bases de données réparties
-Mettre en place un système de gestion de bases de données réparties.
-
-### 2.6 🔄 Alimentation des données
-Mettre en place un système d’alimentation en différé comme en continu.
+The module focuses on understanding the impact of technological choices in DBMS implementation. It also develops skills related to the design, optimization, and evolution of databases using modern tools in environments requiring access control 🔐 and data security 🛡️.
 
 ---
 
-📌 Les objectifs spécifiques sont utilisés afin de déterminer les critères de validation du module.
-```
+## 🎯 Learning Objectives
+
+By the end of this course, students will be able to:
+
+### 🗂️ 1. Artifact Management
+Set up a system to manage software artifacts (source code, versions, configurations, documentation, etc.) produced during the development and evolution of database-driven systems.
+
+### 🔌 2. Secure API Development
+Develop a machine-to-machine interface (IMM or API) that includes access control compliant with cybersecurity policies.
+
+### ⚙️ 3. Data Model Optimization
+Optimize the representation of logical and physical database models.
+
+### 🚀 4. Query Optimization
+Optimize query execution using execution plans and contextual usage analysis.
+
+### 🌐 5. Distributed Databases
+Implement a distributed database management system.
+
+### 🔄 6. Data Ingestion Systems
+Implement both batch (delayed) and real-time data ingestion systems.
+
+---
+
+## 📌 Evaluation
+
+The specific objectives are used to define the evaluation criteria for the module.
